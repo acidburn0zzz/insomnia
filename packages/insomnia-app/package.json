@@ -96,7 +96,7 @@
     "electron-squirrel-startup": "^1.0.0",
     "graphql": "^0.10.5",
     "hawk": "^6.0.2",
-    "highlight.js": "^9.12.0",
+    "highlight.js": "^10.4.1",
     "hkdf": "^0.0.2",
     "html-entities": "^1.2.0",
     "iconv-lite": "^0.4.15",
