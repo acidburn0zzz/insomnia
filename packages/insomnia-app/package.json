@@ -138,7 +138,7 @@
     "redux-thunk": "^2.2.0",
     "reselect": "^3.0.1",
     "srp-js": "^0.2.0",
-    "tar": "^3.1.7",
+    "tar": "^4.4.15",
     "tough-cookie": "^2.3.1",
     "uuid": "^3.0.0",
     "vkbeautify": "^0.99.1",
