@@ -95,7 +95,7 @@
     "electron-context-menu": "^0.9.0",
     "electron-squirrel-startup": "^1.0.0",
     "graphql": "^0.10.5",
-    "hawk": "^6.0.2",
+    "hawk": "^9.0.1",
     "highlight.js": "^9.12.0",
     "hkdf": "^0.0.2",
     "html-entities": "^1.2.0",
