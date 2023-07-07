@@ -139,7 +139,7 @@
     "reselect": "^3.0.1",
     "srp-js": "^0.2.0",
     "tar": "^3.1.7",
-    "tough-cookie": "^2.3.1",
+    "tough-cookie": "^4.1.3",
     "uuid": "^3.0.0",
     "vkbeautify": "^0.99.1",
     "whatwg-fetch": "^2.0.1",
