@@ -192,7 +192,7 @@
     "style-loader": "^0.19.0",
     "url-loader": "^0.6.2",
     "webpack": "^3.5.5",
-    "webpack-dev-server": "^2.9.4",
+    "webpack-dev-server": "^5.0.4",
     "webpack-target-electron-renderer": "^0.4.0"
   }
 }
